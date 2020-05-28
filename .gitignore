@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific for the project
+Tennis_Windows_x86_64/
